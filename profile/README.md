@@ -11,10 +11,16 @@
 🔗 **关于**
 短链接生成器，采用 PHP 编写，无需使用 MySQL 数据库。
 
+🛠️ **语言**
+![PHP](https://img.shields.io/badge/PHP-7.x-blue.svg)
+
 ### 2. [Aixiaoji-Short-URL/Short-URL-useCANS](https://github.com/Aixiaoji-Short-URL/Short-URL-useCANS) (从 Aixiaoji-Short-URL/Short-URL 派生)
 
 🔗 **关于**
 此仓库是从 Aixiaoji-Short-URL/Short-URL 派生的。该仓库不经常更新或很少更新，用于备份 Aixiaoji-Short-URL/Short-URL（CANS）。
+
+🛠️ **语言**
+![PHP](https://img.shields.io/badge/PHP-7.x-blue.svg)
 
 ## 联系我们
 
