@@ -17,7 +17,7 @@
 ### 2. [Aixiaoji-Short-URL/Short-URL-useCANS](https://github.com/Aixiaoji-Short-URL/Short-URL-useCANS) (从 Aixiaoji-Short-URL/Short-URL 派生)
 
 🔗 **关于**
-此仓库是从 Aixiaoji-Short-URL/Short-URL 派生的。该仓库不经常更新或很少更新，用于备份 Aixiaoji-Short-URL/Short-URL（CANS）。
+此仓库是从 Aixiaoji-Short-URL/Short-URL 在特定时间点派生的。该仓库不经常更新或很少更新，用于备份 Aixiaoji-Short-URL/Short-URL（CANS版本）。
 
 🛠️ **语言**
 ![PHP](https://img.shields.io/badge/PHP-7.x-blue.svg)
