@@ -1,6 +1,6 @@
 # Aixiaoji Short-URL 团队
 
-![Aixiaoji Short-URL Logo](https://example.com/logo.png)
+![无Aixiaoji Short-URL Logo](无logo)
 
 欢迎来到 Aixiaoji Short-URL 团队的 GitHub 主页！本团队起源于 HelloAIXIAOJI/Short-URL 团队，并由 Aixiaoji-Short-URL 进行管理。
 
